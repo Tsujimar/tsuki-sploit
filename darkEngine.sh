@@ -1,4 +1,5 @@
-LEVEL A # Once plugged into usb hub do the following:
+#!/bin/bash
+# LEVEL A  Once plugged into usb hub do the following:
     # 1- Disable firewall service
     # 2- Disable AV service
     # 3- Bypass USB detection/analysis tools
@@ -6,13 +7,15 @@ LEVEL A # Once plugged into usb hub do the following:
         # 4-1: If no connection found use LEVEL B;
         # 4-2: Else use LEVEL C;
 
-LEVEL B:
+# LEVEL B:
     # 1- Inject all files into target
     # 2- Remove USB
-    # 2- Begin phantom intrusion
-    # 3- Delete footprint
+    # 3- Begin phantom intrusion
+    # 4- Delete footprint
 
-LEVEL C:
+# LEVEL C:
     # 1- Do not remove USB
     # 2- Begin phantom intrusion locally under USB
     # 3- Remove USB
+
+echo "hello"
