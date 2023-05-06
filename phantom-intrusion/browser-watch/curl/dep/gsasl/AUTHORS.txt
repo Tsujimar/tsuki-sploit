@@ -1,0 +1,20 @@
+GNU SASL AUTHORS -- Information about the authors.
+Copyright (C) 2002-2022 Simon Josefsson
+See the end for copying conditions.
+
+Simon Josefsson <simon@josefsson.org>
+Designed and implemented GNU SASL.
+
+Dirk Armand Marcel Dierckx <dirk.dierckx@solidity.org>
+Implemented gsasl_client/server_suggest_mechanism.
+
+James Canete <jcanete01@shaw.ca>
+Fixed digest-md5 to not add excessive commas.
+
+Adam Strzelecki <ono@java.pl>
+Contributed Windows Visual Studio project files.
+
+----------------------------------------------------------------------
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.

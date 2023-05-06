@@ -1,0 +1,229 @@
+commit 2eda009319eceec3544d7a164b52be873a928ac0 (HEAD, tag: v0.10.0, origin/main, origin/HEAD, main)
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-25
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-25
+
+    Bump package and library versions
+
+commit 0695b8d59aa160c1ae62dde14dc91f3f67a80c07
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-25
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-25
+
+    Update AUTHORS
+
+commit d7937156ccfa307e6a6127d5c158feb5075c3dd0
+Merge: caab8b0 a1ed87d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-25
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-25
+
+    Merge pull request #122 from ngtcp2/update-sfparse
+    
+    Update sfparse
+
+commit a1ed87d46b5bfacd3167597b0e8cdee30b8868bf
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-25
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-25
+
+    Update sfparse
+
+commit caab8b0126a643f13eed4a31b8fbe4dc13bc24bd
+Merge: f2c17d5 9a7549c
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-19
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-19
+
+    Merge pull request #121 from ngtcp2/rename-object-version-macros
+    
+    Rename object version macros
+
+commit 9a7549c8528893eef793d2d10551323818e36955
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-19
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-19
+
+    Rename object version macros
+
+commit f2c17d53e6f15e6d87d598bb546266d79eaca3f2
+Merge: cbd68ba a4cdce4
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-08
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-08
+
+    Merge pull request #119 from ngtcp2/workflow-permissions
+    
+    Set workflow permissions
+
+commit a4cdce46c4a2fa3ca6de0d0380529ceeb31248cf
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-08
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-08
+
+    Set workflow permissions
+
+commit cbd68ba682a808964734d66672c04a330376ee72
+Merge: 895e435 a71b324
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-07
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-07
+
+    Merge pull request #118 from ngtcp2/update-sfparse
+    
+    Update sfparse
+
+commit a71b324fbf2df0a982bb26d49522e1803c67bde5
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-07
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-07
+
+    Update sfparse
+    
+    Update sfparse to 6e314ece1a1374abcb0bbd1ba1c8db3c3ccad6ff
+
+commit 895e435b2b41913b3402a5c9f25a18fbf1f78f22
+Merge: ccf53ab 0608434
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-06
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-06
+
+    Merge pull request #117 from ngtcp2/update-sfparse
+    
+    Update sfparse
+
+commit 06084349b3b7831495b551e9a449d62560772658
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-06
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-06
+
+    Update sfparse
+    
+    Update sfparse to d35c23fdd896689ca59b5c013dfd798bd03a265b
+
+commit ccf53abc7602824390739cd8d530fb6ebd4af77a
+Merge: bec6ddf 6cd4264
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-06
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-06
+
+    Merge pull request #116 from ngtcp2/sphinx-doc-enum
+    
+    sphinx-doc understands :enum:
+
+commit 6cd4264c01cecd7dc493cfc2d5433fedc97e4a8a
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-06
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-06
+
+    sphinx-doc understands :enum:
+
+commit bec6ddf1c6042bcdd412140fb1485e09117168d7
+Merge: 6b9c3f0 b9cab77
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-06
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-06
+
+    Merge pull request #115 from ngtcp2/send-nonzero-h3-datagram
+    
+    Only send SETTINGS_H3_DATAGRAM when it is enabled
+
+commit b9cab77009773ca88860d4601121305c0b09fb99
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-06
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-06
+
+    Only send SETTINGS_H3_DATAGRAM when it is enabled
+
+commit 6b9c3f00488265f320da3845daf8ebff3f3eb6e2
+Merge: da011b9 ef82edf
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-05
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-05
+
+    Merge pull request #114 from ngtcp2/settings-h3_datagram
+    
+    Send and receive SETTINGS_H3_DATAGRAM
+
+commit ef82edf5429bcb66c3c4702a02057d001fa2b7a7
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-05
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-05
+
+    Send and receive SETTINGS_H3_DATAGRAM
+
+commit da011b906eb5dcf98f71c895b31d79f9c531b754
+Merge: 98d91a8 8f9f960
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-05
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-05
+
+    Merge pull request #113 from ngtcp2/sfparse
+    
+    Adopt sfparse to parse Structured Field Values
+
+commit 8f9f9606324fb6a4ca84e2b6ffa11c4b2e9dfca2
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-05
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-05
+
+    Adopt sfparse to parse Structured Field Values
+    
+    Import sfparse at c3776f3337aed85ea321f39e04f9921adb139dd0
+
+commit 98d91a84caf8cf59caa9a7f50ca2ff2bf3c94123
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-05
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-05
+
+    clang-format
+
+commit 439e5c4d879d2e5cea797dc5eae3a0872c10727a
+Merge: 5ce108b 0b3b1ec
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2023-03-05
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-05
+
+    Merge pull request #112 from zcbenz/patch-1
+    
+    Clang has __popcnt for ARM
+
+commit 0b3b1ec5d888d9b658d9d2750f82cdcc7e14cb68
+Author:     Cheng Zhao <zcbenz@gmail.com>
+AuthorDate: 2023-03-03
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2023-03-03
+
+    Clang has __popcnt for ARM
+    
+    When binding on Windows with clang for ARM targets, `__popcnt` is defined.
+
+commit 5ce108b9917cd2f7a5cce83f21a64c08a19da221
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-02-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-02-24
+
+    Bump package version

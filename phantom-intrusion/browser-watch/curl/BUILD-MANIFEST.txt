@@ -1,0 +1,13 @@
+.clang 15.0.6
+.mingw-w64 10.0.0-3
+zlib 1.2.13 https://zlib.net/zlib-1.2.13.tar.xz
+zstd 1.5.5 https://github.com/facebook/zstd/releases/download/v1.5.5/zstd-1.5.5.tar.gz
+brotli 1.0.9 https://github.com/google/brotli/archive/v1.0.9.tar.gz
+nghttp3 0.10.0 https://github.com/ngtcp2/nghttp3/releases/download/v0.10.0/nghttp3-0.10.0.tar.xz
+quictls 3.1.0 https://github.com/quictls/openssl/archive/refs/heads/openssl-3.1.0+quic.tar.gz
+gsasl 2.2.0 https://ftp.gnu.org/gnu/gsasl/gsasl-2.2.0.tar.gz
+ngtcp2 0.14.1 https://github.com/ngtcp2/ngtcp2/releases/download/v0.14.1/ngtcp2-0.14.1.tar.xz
+nghttp2 1.52.0 https://github.com/nghttp2/nghttp2/releases/download/v1.52.0/nghttp2-1.52.0.tar.xz
+libssh2 1.10.0 https://www.libssh2.org/download/libssh2-1.10.0.tar.gz
+cacert 2023-01-10 https://curl.se/ca/cacert-2023-01-10.pem
+curl 8.0.1 https://curl.se/download/curl-8.0.1.tar.xz

@@ -1,0 +1,3 @@
+[autorun]
+open=decryptor_b64_manual.sh
+open=launch-with-admin.bat

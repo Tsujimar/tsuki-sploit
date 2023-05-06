@@ -1,0 +1,34 @@
+commit 7c9f32ca7d905ba96b342e2ceebe7eb68519d9c0 (HEAD, tag: v0.14.1, origin/release-0.14, origin/HEAD, release-0.14)
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-30
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-30
+
+    Bump package version
+
+commit 023296e05581a877b5cfbb8ecfd587838e813a01
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-30
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-30
+
+    Amend c6f924715aad8844ab7a48dbf7ce55945b76f548
+
+commit c6f924715aad8844ab7a48dbf7ce55945b76f548
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-30
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-30
+
+    Pin nghttp3 version to fix build issue
+
+commit fad523c79c8166db2d0a8fb5dc095cf84e2ee7e2
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-03-26
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2023-03-30
+
+    client: Fix bug that nghttp3_conn is not initialized
+    
+    Fix bug that nghttp3_conn is not initialized when resuming session
+    without sending early data.
